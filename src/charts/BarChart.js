@@ -5,7 +5,6 @@ import {
     XAxis,
     Tooltip,
     ResponsiveContainer,
-    CartesianGrid,
     LabelList
 } from "recharts";
 
