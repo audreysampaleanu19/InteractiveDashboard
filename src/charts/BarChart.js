@@ -80,7 +80,7 @@ function RevenueBarChart({ data, xLabel, yLabel, formatCurrency }) {
                 <BarChart data={data} margin={{ top: 40, right: 10, bottom: 50, left: 10 }}>
             
 
-                <CartesianGrid strokeDasharray="3 3" />
+                
 
                 <XAxis
                     dataKey="genre"
